@@ -1,3 +1,5 @@
 # DualLFO
-Euroduino sktech impliments a dual LFO
+
+Euroduino sktech implements a dual LFO
+
 By TimR
